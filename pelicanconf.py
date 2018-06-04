@@ -46,7 +46,7 @@ ADDTHIS_PUBID = config('ADDTHIS')
 
 THEME = 'themes/medius'
 #THEME_COLOR = "red"
-SIDEBAR_DISPLAY = ['categories', 'tags', 'social']
+SIDEBAR_DISPLAY = ['recents', 'tags', 'social']
 COPYRIGHT = "Samuel Barbosa"
 DISQUS_SITENAME = "smkbarbosa"
 
