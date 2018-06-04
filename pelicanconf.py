@@ -72,3 +72,6 @@ MEDIUS_CATEGORIES = {
         'thumbnail': '/images/blog.jpg'
     }
 }
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADA = {'extra/CNAME': {'path': 'CNAME'},}
